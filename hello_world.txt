@@ -1,1 +1,1 @@
-this is crazy learning
+Hello world, using code . to open this file is awsome. now working on bonus in git basics.
