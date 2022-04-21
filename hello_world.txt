@@ -1,1 +1,2 @@
-Hello world, using code . to open this file is awsome. now working on bonus in git basics.
+Hello world, using code . to open this file is awesome. now working on bonus in git basics.
+Second time trying to figure this out.
